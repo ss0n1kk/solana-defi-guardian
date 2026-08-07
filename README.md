@@ -1,4 +1,4 @@
-# 🦞 Solana DeFi Guardian
+# 🦀 Solana DeFi Guardian
 
 > Self-hosted AI agent that protects Solana portfolios and lending positions.
 
