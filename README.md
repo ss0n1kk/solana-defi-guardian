@@ -10,6 +10,9 @@ Built for [Superteam × ZeroClaw Bounty](https://superteam.fun/earn/listing/zero
 
 ## What it does
 
+**Problem:** Every day, thousands of Solana DeFi users lose money to liquidation because they can't monitor their lending positions 24/7.
+
+**Solution:** A self-hosted AI agent that:
 - Auto-onboarding: asks for public wallet address
 - Portfolio & token watchlist (`add` / `remove` / `list`)
 - Price alerts with configurable threshold
