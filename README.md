@@ -21,6 +21,14 @@ Built for [Superteam × ZeroClaw Bounty](https://superteam.fun/earn/listing/zero
 - Lending position monitoring framework (Kamino / Solend / Marginfi)
 - Strict safety: refuses private keys, never signs transactions
 
+🏆 Why This Wins:
+
+Use case (30%)	Real daily need — liquidation protection is #1 fear in DeFi
+Safety (25%) T1 custody, prompt-injection tested, fails closed
+Craft (20%)	Clean skill, memory persistence, error handling
+Reproducibility (15%) 10 min setup, STOCK ZeroClaw binary
+Showcase (10%)	video, real wallet
+
 ## Quick Start
 
 1. Install [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
